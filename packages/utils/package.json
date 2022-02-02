@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@lvdavis/utils-lerna",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "f48dc8fcfcfdd55cedba9bbe87db4f83ddebbd26"
 }
